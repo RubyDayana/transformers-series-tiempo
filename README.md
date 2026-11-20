@@ -11,10 +11,10 @@ entre 1981 y 1990.
 
 - `notebooks/01_Atencion_Series_Tiempo.ipynb`: atención hecha a mano, comparación entre una LSTM normal y
   una LSTM con atención, y gráficas de a qué días les presta atención el modelo.
-  [Abrir en Colab](https://colab.research.google.com/github/RubyDayana/transformers-series-tiempo/blob/main/notebooks/01_Atencion_Series_Tiempo.ipynb)
+  [Abrir en Colab]( https://colab.research.google.com/github/RubyDayana/transformers-series-tiempo/blob/main/transformers-series-tiempo/notebooks/01_Atencion_Series_Tiempo.ipynb)
 - `notebooks/02_Transformer_Series_Tiempo.ipynb`: el encoder del Transformer por partes (codificación
   posicional, atención multi-cabeza, feed-forward), entrenamiento y pruebas quitando la codificación posicional.
-  [Abrir en Colab](https://colab.research.google.com/github/RubyDayana/transformers-series-tiempo/blob/main/notebooks/02_Transformer_Series_Tiempo.ipynb)
+  [Abrir en Colab](https://colab.research.google.com/github/RubyDayana/transformers-series-tiempo/blob/main/transformers-series-tiempo/notebooks/02_Transformer_Series_Tiempo.ipynb)
 
 Para correrlos en Colab: Entorno de ejecución > Ejecutar todas. Los datos se descargan solos.
 También están en la carpeta `data/`.
